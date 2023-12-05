@@ -1,0 +1,4 @@
+node_modules
+newrelic-credentials.sh
+Heap.
+newrelic_agent.log
